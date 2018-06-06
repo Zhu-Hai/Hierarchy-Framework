@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.js linguist-language=LabVIEW
-*.css linguist-language=LabVIEW
-*.html linguist-language=LabVIEW
+*.vi linguist-language=LabVIEW
+*.lvclass linguist-language=LabVIEW
+*.lvlib linguist-language=LabVIEW
+*.ctl linguist-language=LabVIEW
